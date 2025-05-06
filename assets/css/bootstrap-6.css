@@ -11,6 +11,7 @@
    * Copyright 2011-2023 The Bootstrap Authors
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    */
+   
 :root,
 [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
@@ -7812,7 +7813,7 @@ textarea.form-control-lg {
 }
 
 .mt-2 {
-  margin-top: 0.5rem !important;
+  margin-top: -0.5rem !important;
 }
 
 .mt-3 {
@@ -11761,11 +11762,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-header {
   background: #80425F;
   color: rgba(255, 255, 255, 0.9);
-  height: 220px;
+  height: 250px;
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 250px;
 }
 
 .resume-header .name {
