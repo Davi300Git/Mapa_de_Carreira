@@ -23,10 +23,6 @@ Você pode visualizar o mapa de carreira em funcionamento clicando no link abaix
 
 Se o link não estiver funcionando, por favor, verifique se há atualizações ou entre em contato para mais informações.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Desenvolvido por **Davi Sandro dos Santos**
