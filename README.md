@@ -20,7 +20,8 @@ O objetivo é fornecer uma visão clara das competências e tecnologias necessá
 Você pode visualizar o mapa de carreira em funcionamento clicando no link abaixo:
 
 👉 [https://davi300git.github.io/Mapa_de_Carreira/](https://davi300git.github.io/Mapa_de_Carreira/)
-👉 [https://davi300git.github.io/Mapa_de_Carreira/]([https://davi300git.github.io/Mapa_de_Carreira/](https://mapa-de-carreira-two.vercel.app/))
+
+👉 [https://davi300git.github.io/Mapa_de_Carreira/](https://mapa-de-carreira-two.vercel.app/)
 
 Se o link não estiver funcionando, por favor, verifique se há atualizações ou entre em contato para mais informações.
 
